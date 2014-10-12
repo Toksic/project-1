@@ -1,3 +1,3 @@
-ECHOcoin (ECHO)
+Project of Echo
 
-A project of ECHOcoin.
+www.echoco.in
